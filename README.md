@@ -1,4 +1,4 @@
 # projetfinal
 
 Wadensky Pierre Louis
-Lindor Vanderson
+LINDOR Vanderson
